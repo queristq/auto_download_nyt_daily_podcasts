@@ -9,7 +9,8 @@ import os
 import datetime
 
 # parameters that you want to change
-foldername = r'C:\Users\YoungmokYun\OneDrive\podcast' # write the foldername that you want to save the pod cast files. I save this one 
+# foldername = r'D:\dev' # write the foldername that you want to save the pod cast files. I save this one 
+foldername = r'write the folder name here to save the files, e.g., D:\dev' # write the foldername that you want to save the pod cast files. I save this one 
 max_download_number = 5
 
 # Set up the Chrome driver with JavaScript enabled
